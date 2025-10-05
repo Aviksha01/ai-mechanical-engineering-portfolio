@@ -71,4 +71,5 @@ python src/api/main.py
 - Quality control integration
 
 ## Author
-Created by [Your Name] - Mechanical Engineer with AI/ML expertise
+Created by Aviksha - Mechanical Engineer with AI/ML expertise
+
