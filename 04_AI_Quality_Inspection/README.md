@@ -72,4 +72,5 @@ An intelligent quality inspection system that uses computer vision and deep lear
 - Consumer product quality assurance
 
 ## Author
-Created by [Your Name] - Mechanical Engineer with Computer Vision expertise
+Created by Aviksha - Mechanical Engineer with Computer Vision expertise
+
