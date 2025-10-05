@@ -77,4 +77,5 @@ optimizations = engine.optimize_design(analysis)
 - Multi-language support for engineering terminology
 
 ## Author
-Created by [Your Name] - Certified in Google Cloud Gen AI and Prompt Engineering
+Created by Aviksha - Certified in Google Cloud Gen AI and Prompt Engineering
+
