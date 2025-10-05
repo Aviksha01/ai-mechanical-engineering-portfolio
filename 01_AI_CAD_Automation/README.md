@@ -56,4 +56,5 @@ print(f"Design score: {results['quality_score']}")
 - Automated detection of 15+ common design issues
 
 ## Author
-Created by [Your Name] - Mechanical Engineer with AI expertise
+Created by Aviksha - Mechanical Engineer with AI expertise
+
