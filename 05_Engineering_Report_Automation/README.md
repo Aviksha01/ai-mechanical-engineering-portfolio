@@ -65,4 +65,5 @@ python -m src.report_generators.test_report_generator --input data/sample_test_d
 - Technical specification generation
 
 ## Author
-Created by [Your Name] - Mechanical Engineer specializing in automation and documentation
+Created by Aviksha - Mechanical Engineer specializing in automation and documentation
+
